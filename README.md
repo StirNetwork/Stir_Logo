@@ -1,7 +1,7 @@
 <h1>Stir Logo</h1>
 <h2>ガイドライン</h2>
 <div align="center">
-    <img src="https://github.com/StirNetwork/stir_logo/assets/71627059/a5a20378-32a4-4166-ba37-705d3c8cb629" width="450">
+    <img src="./Assets/logo_background_white-01.png" width="450">
 </div>
 
 <h2>メインカラー</h2>
@@ -9,7 +9,7 @@
 <div>
   <table>
     <tr>
-      <td><img src="https://github.com/StirNetwork/stir_logo/assets/71627059/0a4ecd21-15d9-4aa2-b870-696386294cc7" width="250"></td>
+      <td><img src="./Assets/logo_colors.png" width="250"></td>
       <td>
         <table>
           <tr>
@@ -48,7 +48,7 @@
           </tr>
         </table>
       </td>
-      <td><img src="https://github.com/StirNetwork/stir_logo/assets/71627059/dc8a1e30-e4d2-41f2-9be8-f8764dc6a933" width="250"></td>
+      <td><img src="./Assets/logo_colors_font.png" width="250"></td>
        <td>
         <table>
           <tr>
@@ -80,15 +80,15 @@
 <div>
     <table>
       <tr>
-        <td><img src="https://github.com/StirNetwork/stir_logo/assets/71627059/a5a20378-32a4-4166-ba37-705d3c8cb629" width="auto"><br><p style="font-size: 10px">基本形</p></td>
-        <td><img src="https://github.com/StirNetwork/stir_logo/assets/71627059/196c9a02-8853-4cee-807a-7110f4c0fffb" width="auto"><br><p style="font-size: 10px">モノクロの場合</p></td>
-        <td><img src="https://github.com/StirNetwork/stir_logo/assets/71627059/499286f0-4e8e-4939-9fc3-f9cab3caa325" width="auto"><br><p style="font-size: 10px">背景に濃い色が使われる場合</p></td>
+        <td><img src="./Assets/logo_background_white-01.png" width="auto"><br><p style="font-size: 10px">基本形</p></td>
+        <td><img src="./Assets/logo_mono-01.png" width="auto"><br><p style="font-size: 10px">モノクロの場合</p></td>
+        <td><img src="./Assets/logo_background_black-01.png" width="auto"><br><p style="font-size: 10px">背景に濃い色が使われる場合</p></td>
     </table>
 </div>
 <br>
 
 <h2>利用禁止例</h2>
 <div>
-  <img src="https://github.com/StirNetwork/stir_logo/assets/71627059/ea19e0dc-9a6a-417c-8f24-bf8cd18def4e" width="auto">
+  <img src="./Assets/ng_usages.png" width="auto">
 </div>
 <br>
