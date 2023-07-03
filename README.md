@@ -80,9 +80,9 @@
 <div>
     <table>
       <tr>
-        <td><img src="https://github.com/StirNetwork/stir_logo/assets/71627059/a5a20378-32a4-4166-ba37-705d3c8cb629" width="auto"><br><p>基本形</p></td>
-        <td><img src="https://github.com/StirNetwork/stir_logo/assets/71627059/196c9a02-8853-4cee-807a-7110f4c0fffb" width="auto"><br><p>モノクロの場合</p></td>
-        <td><img src="https://github.com/StirNetwork/stir_logo/assets/71627059/499286f0-4e8e-4939-9fc3-f9cab3caa325" width="auto"><br><p>背景に黒など濃い色が使われる場合</p></td>
+        <td><img src="https://github.com/StirNetwork/stir_logo/assets/71627059/a5a20378-32a4-4166-ba37-705d3c8cb629" width="auto"><br><p font size="1">基本形</p></td>
+        <td><img src="https://github.com/StirNetwork/stir_logo/assets/71627059/196c9a02-8853-4cee-807a-7110f4c0fffb" width="auto"><br><p font size="1">モノクロの場合</p></td>
+        <td><img src="https://github.com/StirNetwork/stir_logo/assets/71627059/499286f0-4e8e-4939-9fc3-f9cab3caa325" width="auto"><br><p font size="1">背景に黒など濃い色が使われる場合</p></td>
     </table>
 </div>
 <br>
