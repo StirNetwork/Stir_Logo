@@ -85,9 +85,10 @@
         <td><img src="https://github.com/StirNetwork/stir_logo/assets/71627059/499286f0-4e8e-4939-9fc3-f9cab3caa325" width="auto"><br><p>背景に黒など濃い色が使われる場合</p></td>
     </table>
 </div>
+<br>
 
 <h2>利用禁止例</h2>
 <div>
   <img src="https://github.com/StirNetwork/stir_logo/assets/71627059/ea19e0dc-9a6a-417c-8f24-bf8cd18def4e" width="auto">
-  <br>
 </div>
+<br>
